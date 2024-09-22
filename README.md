@@ -22,3 +22,4 @@ The **Weather-Based Outfit Recommender** fetches real-time weather data based on
 - **Tomorrow.io API**: Fetches weather forecast data for outfit recommendations.
 
 ## Screenshot
+<img width="565" alt="Screenshot 2024-09-22 at 4 23 22 PM" src="https://github.com/user-attachments/assets/73a394da-a057-47f8-b59a-b5c792506edf">
